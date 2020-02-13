@@ -1,0 +1,4 @@
+#Sat Feb 08 17:13:07 CET 2020
+base.0=C\:\\challenger\\denyigban\\degigban\\slapsh_screen\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
