@@ -1,4 +1,4 @@
-# slapsh_screen
+# Flutter Splash Screen
 
 Splash screen with flutter
 
